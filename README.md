@@ -15,7 +15,6 @@ To build this text editor, you will start with an existing application and imple
 
   - [User Story](#use-story)
   - [Acceptance Criteria](#acceptance-criteria)
-  - [Database Languages Used](#database-language-used)
   - [Deployed Link](#deployed-link)
   - [Installation](#installation)
   - [License](#license)
@@ -58,12 +57,9 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Database Language Used
-* Database Languages : NoSQL, MongoDB
-
 ## Deployed Link
 - Heroku URL:
-- Github Repo URL: 
+- Github Repo URL: https://najiba-haidari.github.io/pwa-text-editor/
 
 ## Installation
 This app needs to be run in either CLI or shell.
