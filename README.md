@@ -58,7 +58,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Deployed Link
-- Heroku URL:
+- Heroku URL: https://morning-plains-07430.herokuapp.com/
 - Github Repo URL: https://najiba-haidari.github.io/pwa-text-editor/
 
 ## Installation
